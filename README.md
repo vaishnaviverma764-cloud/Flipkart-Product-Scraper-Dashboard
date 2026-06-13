@@ -33,6 +33,9 @@ The Flipkart Product Scraper Dashboard is a web application built using Python a
 
 
 
+
+
+
 ## 🎯 Skills Demonstrated
 
 * Web Scraping
@@ -47,3 +50,11 @@ The Flipkart Product Scraper Dashboard is a web application built using Python a
 
 ## Scraped Data
 [Output](screenshots/output.png)
+
+## Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## Scraped Data
+![Output](screenshots/output.png)
+
+
