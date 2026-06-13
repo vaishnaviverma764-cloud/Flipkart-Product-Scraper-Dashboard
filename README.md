@@ -30,37 +30,6 @@ The Flipkart Product Scraper Dashboard is a web application built using Python a
 4. View the scraped product data.
 5. Download the data as a CSV file.
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YourUsername/Flipkart-Product-Scraper-Dashboard.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd Flipkart-Product-Scraper-Dashboard
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the application:
-
-```bash
-python -m streamlit run app.py
-```
-
-## 📸 Screenshots
-
-* Dashboard Interface
-* Scraped Product Table
-* CSV Download Feature
 
 ## 🎯 Skills Demonstrated
 
